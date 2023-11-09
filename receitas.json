@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "Pudim de Leite Condensado",
+        "imagem": "pudim.jpg",
+        "preparo": "Ligue o forno para aquecer por 10 minutos, em fogo baixo. Bata no liquidificador os ovos, o leite moça e o leite por 3 minutos...",
+        "ingredientes": [
+            "3 ovos",
+            "1 lata de leite condensado",
+            "1 lata de leite",
+            "3 colheres de açúcar"
+        ]
+    },
+    {
+        "titulo": "Suco de Maracujá",
+        "imagem": "suco-de-maracuja.png",
+        "preparo": "Corte os maracujás e retire a polpa. Coloque as polpas em um liquidificador com a água e bata até ficar bem cremoso...",
+        "ingredientes": [
+            "2 maracujás",
+            "2 litros de água",
+            "12 colheres de açúcar",
+            "1 copo (mas só se quiser)"
+        ]
+    },
+    {
+        "titulo": "Página de Receitas Dinâmica",
+        "imagem": "como-fazer-sites.png",
+        "preparo": "Crie um arquivo HTML para a estrutura do site. Use CSS para dar estilo ao site. Adicione imagens de receitas para atrair visualmente...",
+        "ingredientes": [
+            "HTML, CSS, JavaScript e JSON",
+            "Editor de código (ex: Visual Studio Code)",
+            "Criatividade"
+        ]
+    }
+]
